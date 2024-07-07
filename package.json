@@ -1,10 +1,15 @@
 {
   "name": "ksv-lp",
   "displayName": "ksv-lp",
+  "publisher": "keshavs-loopback-query",
   "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/singh-keshav/vs-code-loopback-extension.git"
   },
   "categories": [
     "Other"
